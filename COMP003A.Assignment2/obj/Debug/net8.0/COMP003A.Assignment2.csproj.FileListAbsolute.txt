@@ -1,0 +1,14 @@
+/Users/brianna/RiderProjects/COMP003A.Assignment2/COMP003A.Assignment2/bin/Debug/net8.0/COMP003A.Assignment2
+/Users/brianna/RiderProjects/COMP003A.Assignment2/COMP003A.Assignment2/bin/Debug/net8.0/COMP003A.Assignment2.deps.json
+/Users/brianna/RiderProjects/COMP003A.Assignment2/COMP003A.Assignment2/bin/Debug/net8.0/COMP003A.Assignment2.runtimeconfig.json
+/Users/brianna/RiderProjects/COMP003A.Assignment2/COMP003A.Assignment2/bin/Debug/net8.0/COMP003A.Assignment2.dll
+/Users/brianna/RiderProjects/COMP003A.Assignment2/COMP003A.Assignment2/bin/Debug/net8.0/COMP003A.Assignment2.pdb
+/Users/brianna/RiderProjects/COMP003A.Assignment2/COMP003A.Assignment2/obj/Debug/net8.0/COMP003A.Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianna/RiderProjects/COMP003A.Assignment2/COMP003A.Assignment2/obj/Debug/net8.0/COMP003A.Assignment2.AssemblyInfoInputs.cache
+/Users/brianna/RiderProjects/COMP003A.Assignment2/COMP003A.Assignment2/obj/Debug/net8.0/COMP003A.Assignment2.AssemblyInfo.cs
+/Users/brianna/RiderProjects/COMP003A.Assignment2/COMP003A.Assignment2/obj/Debug/net8.0/COMP003A.Assignment2.csproj.CoreCompileInputs.cache
+/Users/brianna/RiderProjects/COMP003A.Assignment2/COMP003A.Assignment2/obj/Debug/net8.0/COMP003A.Assignment2.dll
+/Users/brianna/RiderProjects/COMP003A.Assignment2/COMP003A.Assignment2/obj/Debug/net8.0/refint/COMP003A.Assignment2.dll
+/Users/brianna/RiderProjects/COMP003A.Assignment2/COMP003A.Assignment2/obj/Debug/net8.0/COMP003A.Assignment2.pdb
+/Users/brianna/RiderProjects/COMP003A.Assignment2/COMP003A.Assignment2/obj/Debug/net8.0/COMP003A.Assignment2.genruntimeconfig.cache
+/Users/brianna/RiderProjects/COMP003A.Assignment2/COMP003A.Assignment2/obj/Debug/net8.0/ref/COMP003A.Assignment2.dll
