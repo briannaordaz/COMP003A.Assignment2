@@ -10,10 +10,8 @@ internal class Program
         string userFirstName;
         string userLastName;
         string student;
-        int addAge;
         int userAge;
         double userPrice;
-        double newPrice;
         bool studentExists;
         
         
@@ -41,6 +39,16 @@ internal class Program
        studentExists = bool.Parse(Console.ReadLine());
        
        
+       Console.WriteLine("**************************************************");
+       
+       // Perform Operations:
+       int addAge = userAge + 5;
+       double newPrice = userPrice * 0.9;
+       
+       
+       
+
+
 
 
     }
